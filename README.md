@@ -1,3 +1,3 @@
-# Everything should be in order.
+# What this program does
 
-if not, click the ISSUES tab at the top.
+Gets a users favorite animal and calculates if they hate cats.
